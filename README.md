@@ -3,8 +3,6 @@
 > This project and the frameworks used are presently in alpha stage of development.
 
 # HealthApp: Nutritional Insight from Food Photos
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
 A simple app to upload an image to OpenAI Vision for analysis. If the item is food we will gather the pros, cons, type & overall summary about the food.
 <br/><br/>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/PreternaturalAI/AI/blob/main/LICENSE)
